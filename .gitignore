@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But include only quick_quiz.html
+!quick_quiz.html
+
+# Also include this .gitignore file
+!.gitignore
